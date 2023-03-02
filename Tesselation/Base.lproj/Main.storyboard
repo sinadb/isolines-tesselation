@@ -656,10 +656,10 @@
                                     </items>
                                 </menu>
                             </menuItem>
-                            <menuItem title="Sina" state="on" id="upY-hO-lyw">
+                            <menuItem title="Scene" state="on" id="upY-hO-lyw">
                                 <attributedString key="attributedTitle"/>
                                 <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Sina" id="Oyo-mh-QK4">
+                                <menu key="submenu" title="Scene" id="Oyo-mh-QK4">
                                     <items>
                                         <menuItem title="linear" id="0GK-wF-IhU">
                                             <modifierMask key="keyEquivalentModifierMask"/>
